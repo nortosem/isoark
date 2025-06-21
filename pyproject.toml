@@ -15,6 +15,11 @@ authors = [
 maintainers = [
   { name = "mesotron.dev", email = "mail@mesotron.dev" },
 ]
+
+[project.urls]
+Homepage = "https://github.com/nortosem/isoark" 
+Documentation = "https://github.com/nortosem/isoark/blob/trunk/README.md"
+
 keywords = [ 
     "Python",
     "template",
